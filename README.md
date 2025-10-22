@@ -22,7 +22,7 @@ Ideal für Batch-Konvertierung ganzer Ordner – komplett **offline**.
 
 ## Screenshot
 
-> `<img src="./screenshot.png" alt="SMART Notebook → PDF – Screenshot" width="900">`
+> ![SMART Notebook → PDF – Screenshot](./screenshot.png)
 
 ---
 
