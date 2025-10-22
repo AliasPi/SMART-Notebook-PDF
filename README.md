@@ -172,7 +172,7 @@ python notebook_to_pdf_gui.py
 - **Build (optional)**:  
   Mit PyInstaller ein Ein-Datei-Build erstellen (Beispiel, anpassen nach OS):
   ```bash
-  pyinstaller --noconfirm --onefile --windowed     --name "SMART Notebook to PDF"     <Hauptskript>.py
+  pyinstaller --noconfirm --onefile --windowed     --name "SMART Notebook to PDF"     notebook_to_pdf_gui.py
   ```
 
 
