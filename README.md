@@ -22,7 +22,7 @@ Ideal für Batch-Konvertierung ganzer Ordner – komplett **offline**.
 
 ## Screenshot
 
-> `![SMART Notebook → PDF – Screenshot](docs/screenshot.png)`
+> `![SMART Notebook → PDF – Screenshot](screenshot.png)`
 
 ---
 
@@ -67,8 +67,6 @@ pip install customtkinter Pillow reportlab resvg_py
 python notebook_to_pdf_gui.py
 ```
 
-> Ersetze `notebook_to_pdf_gui.py` durch den tatsächlichen Dateinamen (z. B. `smart_notebook_to_pdf.py`).  
-> Danach: Dateien/Ordner wählen → Einstellungen setzen → **🚀 Konvertieren**.
 
 ---
 
