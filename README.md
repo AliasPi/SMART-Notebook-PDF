@@ -44,8 +44,8 @@ Ideal für Batch-Konvertierung ganzer Ordner – komplett **offline**.
 
 ```bash
 # Projekt klonen
-git clone <dein-repo-url>
-cd <repo-ordner>
+git clone https://github.com/AliasPi/SMART-Notebook-PDF.git
+cd SMART-Notebook-PDF
 
 # (Optional) virtuelles Environment
 python -m venv .venv
