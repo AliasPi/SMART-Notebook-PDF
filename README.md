@@ -64,10 +64,10 @@ pip install customtkinter Pillow reportlab resvg_py
 ## Start
 
 ```bash
-python <Hauptskript>.py
+python notebook_to_pdf_gui.py
 ```
 
-> Ersetze `<Hauptskript>.py` durch den tatsächlichen Dateinamen (z. B. `smart_notebook_to_pdf.py`).  
+> Ersetze `notebook_to_pdf_gui.py` durch den tatsächlichen Dateinamen (z. B. `smart_notebook_to_pdf.py`).  
 > Danach: Dateien/Ordner wählen → Einstellungen setzen → **🚀 Konvertieren**.
 
 ---
